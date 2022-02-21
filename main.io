@@ -1,9 +1,5 @@
 //Matrix
-// ----------------------------------------------------------
-// Arduino Nano steuert 8x8 RGB-Matrix
-// ----------------------------------------------------------
 
-#include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
  #include <avr/power.h> 
 #endif
